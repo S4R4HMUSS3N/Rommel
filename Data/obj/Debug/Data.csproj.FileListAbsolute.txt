@@ -1,0 +1,5 @@
+C:\Dev\dotNet\AppDevTest\Data\bin\Debug\Data.dll
+C:\Dev\dotNet\AppDevTest\Data\bin\Debug\Data.pdb
+C:\Dev\dotNet\AppDevTest\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Dev\dotNet\AppDevTest\Data\obj\Debug\Data.dll
+C:\Dev\dotNet\AppDevTest\Data\obj\Debug\Data.pdb

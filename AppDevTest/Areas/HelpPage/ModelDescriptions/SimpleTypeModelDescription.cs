@@ -1,0 +1,6 @@
+namespace AppDevTest.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
